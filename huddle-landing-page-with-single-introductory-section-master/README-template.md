@@ -31,7 +31,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/giohurtado/huddle-landing-page.git)
+- Solution URL: [Repository](https://github.com/giohurtado/huddle-landing-page.git)
 
 ## My process
 
